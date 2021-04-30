@@ -28,7 +28,7 @@ Telethon==1.8.0
 termcolor==1.1.0
 tqdm==4.46.0
 typing==3.7.4.1
-urllib3==1.25.3
+urllib3==1.25.8
 urlparser==0.1.2
 w3lib==1.22.0
 websockets==8.0.2
