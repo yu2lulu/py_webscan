@@ -11,7 +11,7 @@ gevent==1.4.0
 greenlet==0.4.15
 humanfriendly==8.1
 idna==2.8
-lxml==4.5.1
+lxml==4.9.1
 parse==1.15.0
 pyaes==1.6.1
 pyasn1==0.4.5
